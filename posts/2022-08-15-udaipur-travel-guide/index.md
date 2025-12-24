@@ -27,7 +27,7 @@ After half an hour of this pre-sunset drama, we got up and crossed a bridge to n
 
 Udaipur is well-known for being a place to unwind and relax and is the city to visit with your partner and soak up the romance. The city is full of gleaming palaces and many historic sites to explore. Street art to photograph, ghats to watch the sunset from, and peaceful lakes to stroll alongside are all highlights. It truly is as wonderful as everyone claims. While there are plenty of things to do in town, it's also a city where simply meandering through the streets is an excellent way to spend a day. Let's get started with some of my favourite things to do in the city.
 
-![](posts/2022-08-15-udaipur-travel-guide/attachments/Udaipur-04-1024x684.jpg)
+![](posts/2022-08-15-udaipur-travel-guide/attachments/Udaipur-04.jpg)
 
 **Spend half day at City Palace**
 
@@ -55,9 +55,9 @@ When it comes to watching the sunset from the lake, there are two options: budge
 
 I couldn't get enough of the murals or wall paintings in Udaipur, more than anywhere else in Rajasthan! Traditional paintings and some with modern vibes adorn the white-washed walls all over Old Town, and I think I photographed almost everyone I saw. I'd recommend spending an hour or two wandering through the narrow lanes of Old Udaipur, trying to spot as many paintings as you can.
 
-![](posts/2022-08-15-udaipur-travel-guide/attachments/20220226_192832-1-1024x683.jpg)
-![](posts/2022-08-15-udaipur-travel-guide/attachments/20220226_192815-1-1024x683.jpg)
-![](posts/2022-08-15-udaipur-travel-guide/attachments/Udaipur-02-1024x684.jpg)
+![](posts/2022-08-15-udaipur-travel-guide/attachments/20220226_192832-1.jpg)
+![](posts/2022-08-15-udaipur-travel-guide/attachments/20220226_192815-1.jpg)
+![](posts/2022-08-15-udaipur-travel-guide/attachments/Udaipur-02.jpg)
 
 **Have a tea of coffee by the lake**
 
@@ -67,7 +67,7 @@ There are countless fantastic places to watch the sunset in Udaipur. After a lon
 
 One of the most appealing things to do in Udaipur is to visit the palatial haveli, which is located on the shores of Lake Pichola and thus offers a spectacular view. The massive structures serve as a living museum, revealing the royal loves of the kings and queens. The haveli also hosts an hour-long local folk dance show in the courtyard in the evening.
 
-![](posts/2022-08-15-udaipur-travel-guide/attachments/20220228_165144-1-1024x683.jpg)
+![](posts/2022-08-15-udaipur-travel-guide/attachments/20220228_165144-1.jpg)
 
 **Take a day trip to Chittorgarh**
 
@@ -81,7 +81,7 @@ Udaipur's shopping areas include Hathi Pol, Bada Bazar, and Bapu Bazar. Saris, c
 
 Saheliyon-ki-Bari (Courtyard or Garden of the Maidens) is a popular tourist destination near Fateh Sagar Lake. It has lovely gardens, fountains and kiosks, a lotus pool and marble elephants, and a small museum with information about Indian history.
 
-![](posts/2022-08-15-udaipur-travel-guide/attachments/20220227_175549-1-1024x768.jpg)
+![](posts/2022-08-15-udaipur-travel-guide/attachments/20220227_175549-1.jpg)
 
 **Explore the Monsoon Palace**
 
@@ -91,7 +91,7 @@ The Monsoon Palace or Sajjangarh Palace is a palatial residence on a hilltop. W
 
 It is primarily a viewpoint from the Aravali Hills overlooking Badi Lake. Badi Lake has long been a popular tourist attraction, and the Bahubali Hills only add to its allure. It gives us a place to admire the beautiful Badi lake and the Aravali Hills range of mountains.
 
-![Bahubali Hills](posts/2022-08-15-udaipur-travel-guide/attachments/Udaipur-20-1024x684.jpg)
+![Bahubali Hills](posts/2022-08-15-udaipur-travel-guide/attachments/Udaipur-20.jpg)
 
 ### **WHERE TO STAY IN UDAIPUR**?
 

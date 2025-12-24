@@ -16,7 +16,7 @@ Bhigwan is a small town on the banks of Ujani lake, approx 100 km from Pune. The
 
 This huge reservoir is actually the backwater of the Ujani dam. Due to resource-rich water and soil, the various birds migrate to this place every year during winters. The most notable birds which can be spotted here are Painted Storks and gorgeous Flamingos. This place also hosts other wetland migratory birds such as the Bar-headed Goose, Ruddy Shelduck, many species of ducks, Grey Heron, Purple Swamphen and many more birds.
 
-![Grey Heron](posts/2022-02-12-bhigwan-bird-watching/attachments/Web_untitled-32-1024x683.jpg)
+![Grey Heron](posts/2022-02-12-bhigwan-bird-watching/attachments/Web_untitled-32.jpg)
 
 As winter slowly grows over Maharashtra, these migratory birds start breeding on the banks of this lake. Due to the large availability of fish and other resources, these migratory birds prefer to be at this lake and its surroundings. The usual period of visiting the place and enjoying bird watching is from late December till March. As the dam water level drops and the mercury rises in the area the birds start their journey back. But this short stay of the birds becomes a paradise for bird watchers and photographers.
 
