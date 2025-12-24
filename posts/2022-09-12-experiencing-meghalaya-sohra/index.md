@@ -67,10 +67,9 @@ We left Nongriat early in the morning, but to get to Tyrna and start our way bac
 
 **Evening walk in Shillong**
 
-We made it to Shillong in the early evening and decided to spend the night there to see as much of the city as possible before leaving this beautiful and peaceful location the following morning. We returned to Police Bazaar for more shopping and street food. After exploring for a while, we returned to the same cosy cafe for some hot soup and rocking tunes. In spite of the fact that we were on our sixth and final day in Meghalaya, we knew we wanted to come back for more. The Khasi people, the waterfalls, the caves, the markets, and the Khasi food all made for an unforgettable experience. Pure, unspoiled nature.
+We made it to Shillong in the early evening and decided to spend the night there to see as much of the city as possible before leaving this beautiful and peaceful location the following morning. We returned to Police Bazaar for more shopping and street food. After exploring for a while, we returned to the same cosy café for some hot soup and rocking tunes. In spite of the fact that we were on our sixth and final day in Meghalaya, we knew we wanted to come back for more. The Khasi people, the waterfalls, the caves, the markets, and the Khasi food all made for an unforgettable experience. Pure, unspoiled nature.
 
 ![](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211208-012.jpg)
 ![](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211208-007.jpg)
 ![](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211209-017.jpg)
 ![](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Web-_AKM6461-001.jpg)
-![](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Web-_AKM6458-001.jpg)
