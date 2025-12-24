@@ -38,4 +38,3 @@ To summarise, the Taj Mahal is a must-see attraction for anyone visiting India. 
 ![](posts/2022-11-21-the-taj-mahal/attachments/Taj-Mahal-3.jpg)
 ![](posts/2022-11-21-the-taj-mahal/attachments/Taj-Mahal-2.jpg)
 ![](posts/2022-11-21-the-taj-mahal/attachments/Taj-Mahal-1.jpg)
-![](attachments/Taj-Mahal-15.jpg)
