@@ -1,0 +1,9 @@
+# Obsidian workspace (personal settings)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/cache/
+
+# System files
+.DS_Store
+Thumbs.db

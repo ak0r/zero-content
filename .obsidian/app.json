@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "posts",
+  "newLinkFormat": "absolute",
+  "openBehavior": "file:bases/Home.base",
+  "useMarkdownLinks": true,
+  "showLineNumber": false,
+  "showUnsupportedFiles": true,
+  "focusNewTab": false
+}
