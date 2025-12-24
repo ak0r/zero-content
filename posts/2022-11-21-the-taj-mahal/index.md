@@ -6,7 +6,7 @@ date: 2022-11-21
 tags:
   - uttarpradesh
 image: "[[posts/2022-11-21-the-taj-mahal/attachments/Taj-Mahal-14.jpg]]"
-imageAlt: ""
+imageAlt:
 draft: false
 featured: false
 ---
