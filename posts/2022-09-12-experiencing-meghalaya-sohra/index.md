@@ -29,8 +29,8 @@ Since morning, the clouds have been playing hide and seek. In the morning, it ra
 
 The Garden of Caves, or Ka Bri Synrang as it is known in the Khasi language, was our next stop in Cherrapunjee. The place is surrounded by misty hills and dense forests, and it has a number of beautiful waterfalls, small ponds, and magical caves. As soon as you get your ticket and start walking down the stairs, the sound of the water will start to entice you. The trail inside takes you to seven interesting places: Ka Synrang Syiem, or the King's cave, Sum Syiem Falls, Ki Stieh Maw, or the warrior rocks, U Mawdohnud, or the heart-shaped rock, U Mawkhyllung, or Baby rock, Arsdad Falls, and Riat Umlwai Falls. The bamboo bridges at the entrance of the garden are a great place to get a close-up look at the waterfalls and also to get a good view of them. During British rule, it is said that the Khasi tribe of Meghalaya would hide in the caves to avoid being attacked by British soldiers. They used to stay in these caves when it rains heavily, and the dense forest around the caves gave them food and other things they needed.
 
-- ![Garden of Caves](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Web-_AKM6572-001.jpg)
-- ![Garden of Caves](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Web-_AKM6474-001.jpg)
+![Garden of Caves](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Web-_AKM6572-001.jpg)
+![Garden of Caves](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Web-_AKM6474-001.jpg)
 
 
 **Caves of Meghalaya**
@@ -51,12 +51,13 @@ We went to the **Noh Ka Likai** waterfall after spending almost two hours in t
 
 Another Meghalayan attraction that we were eager to visit was the Double Decker Living Root Bridge. Some of life's most rewarding vistas are worth every aching muscle and sweaty brow. The Nongriat Trek involves a roughly 3500-step ascent and descent to reach the Double Decker Living Root Bridge. Ever since I learned about them, I've been curious about the live root bridges of Meghalaya. I was always curious about how these root bridges came to be. I had always believed that the only places you could find living root bridges were in Nongriat, close to Cherrapunjee, and Riwai, close to Mawlynnong. To my surprise, though, root bridges can be found all around Meghalaya. The indigenous people of Meghalaya mostly used tree roots to construct these bridges across rivers, which they then tied, twisted, and eventually let to grow together. As long as the tree the root bridges are a part of is growing, the root bridges will too. Living root bridges are incredibly sturdy once they have been formed and only get stronger over time. Many of them can withstand the weight of 50 persons standing on them together. These living, expanding bridges strengthen over time. Many of Meghalaya's root bridges are over 400 years old.
 
-
+![Trek to Nongriat](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211208-006.jpg)
+![Trek to Nongriat](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211208-009.jpg)
 
 The trek starts in a small village near Cherrapunjee called Tyrna. From Tyrna, you have to walk almost 3,500 steps to get to the village of Nongriat. To get into the area with the root bridge, there is a small ticket counter. Everything there was so peaceful and beautiful. We felt so peaceful just sitting there by the river. In an instant, we were no longer tired at all. We got Maggie and tea from a store nearby and sulked for a while in the quiet. We stayed there for about an hour before deciding to cross the Nongriat Double decker root bridge and keep walking towards Rainbow Falls. You can go to Rainbow Falls the next morning if you are staying in Nongriat. But since we had time and the whole day, we chose to go on the same day. From the root bridge, it takes another two hours to get to rainbow falls. You can stop for a while at the Blue Lagoon of Nongriat. When the sun is shining, the water really does look turquoise blue. But save your strength for the next part of the hike, when you have to climb a small hill to get to the beautiful Rainbow Falls. No words can describe that scene. We went back to Nongriat, where we were staying in one of the Khasi homes, with a heavy heart. The host was very nice and cooked us tasty food.
 
-![Trek to Nongriat](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211208-009)
-![Trek to Nongriat](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211208-006)
+![Double Decker root bridge](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211208-013.jpg)
+![Rainbow Falls](posts/2022-09-12-experiencing-meghalaya-sohra/attachments/Meghalaya-20211208-010.jpg)
 
 **Mawphlang Sacred Groves**
 

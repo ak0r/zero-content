@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "posts",
-  "newLinkFormat": "relative",
+  "newLinkFormat": "absolute",
   "openBehavior": "file:bases/Home.base",
   "useMarkdownLinks": true,
   "showLineNumber": false,
