@@ -1,0 +1,87 @@
+filters:
+  and:
+    - file.ext == "md"
+formulas:
+  Content Folder: |-
+    if(file.name == "index",
+      if(file.folder != "",
+        if(file.folder.replace("/" + file.folder.replace(/.*\//, ""), "") != "",
+          file.folder.replace("/" + file.folder.replace(/.*\//, ""), ""),
+          file.folder
+        ),
+        "root"
+      ),
+      if(file.folder != "",
+        file.folder,
+        "root"
+      )
+    )
+  Path: |-
+    if(file.folder == "posts", "/posts/" + file.name.replace(".md", ""), 
+      if(file.folder == "pages", "/" + file.name.replace(".md", ""), 
+        if(file.folder == "special", if(file.name.replace(".md", "") == "home", "/", "/" + file.name.replace(".md", "")), 
+          if(file.folder == "projects", "/projects/" + file.name.replace(".md", ""), 
+            if(file.folder == "docs", "/docs/" + file.name.replace(".md", ""), 
+              "/" + file.folder)))))
+views:
+  - type: bases-cms
+    name: Posts
+    filters:
+      and:
+        - file.folder.startsWith("posts")
+    order:
+      - file.name
+      - formula.Content Folder
+      - formula.Path
+    sort:
+      - property: date
+        direction: DESC
+    titleProperty: note.title
+    imageProperty: note.image
+    dateProperty: note.date
+    showDate: true
+    showDraftStatus: true
+    draftStatusProperty: note.draft
+    showTags: true
+    tagsProperty: note.tags
+    descriptionProperty: note.description
+    propertyLabels: above
+    fallbackToEmbeds: always
+    imageFormat: cover
+    fallbackToContent: true
+    truncatePreviewProperty: true
+    customizeNewButton: true
+  - type: bases-cms
+    name: Projects
+    filters:
+      and:
+        - file.inFolder("projects")
+    image: note.image
+  - type: bases-cms
+    name: Docs
+    filters:
+      and:
+        - file.folder.startsWith("docs")
+  - type: bases-cms
+    name: Pages
+    filters:
+      and:
+        - file.folder == "pages"
+  - type: cards
+    name: View
+  - type: bases-cms
+    name: Gallery
+    filters:
+      and:
+        - file.folder.startsWith("gallery")
+    titleProperty: note.title
+    descriptionProperty: note.description
+    imageFormat: cover
+    imageProperty: note.coverImage
+    fallbackToEmbeds: always
+    showDate: true
+    dateProperty: note.date
+    showDraftStatus: true
+    draftStatusProperty: note.draft
+    draftStatusUseFilenamePrefix: true
+    propertyLabels: above
