@@ -53,23 +53,33 @@ views:
     truncatePreviewProperty: true
     customizeNewButton: true
   - type: bases-cms
-    name: Projects
-    filters:
-      and:
-        - file.inFolder("projects")
-    image: note.image
-  - type: bases-cms
     name: Tech Posts
     filters:
       and:
-        - file.folder.startsWith("docs")
-  - type: bases-cms
-    name: Pages
-    filters:
-      and:
-        - file.folder == "pages"
-  - type: cards
-    name: View
+        - file.folder.startsWith("posts")
+        - category == "tech"
+    order:
+      - file.name
+      - formula.Content Folder
+      - formula.Path
+    sort:
+      - property: date
+        direction: DESC
+    titleProperty: note.title
+    imageProperty: note.image
+    dateProperty: note.date
+    showDate: true
+    showDraftStatus: true
+    draftStatusProperty: note.draft
+    showTags: true
+    tagsProperty: note.tags
+    descriptionProperty: note.description
+    propertyLabels: above
+    fallbackToEmbeds: always
+    imageFormat: cover
+    fallbackToContent: true
+    truncatePreviewProperty: true
+    customizeNewButton: true
   - type: bases-cms
     name: Gallery
     filters:
@@ -86,3 +96,41 @@ views:
     draftStatusProperty: note.draft
     draftStatusUseFilenamePrefix: true
     propertyLabels: above
+  - type: bases-cms
+    name: Projects
+    filters:
+      and:
+        - file.inFolder("projects")
+    image: note.image
+  - type: bases-cms
+    name: Pages
+    filters:
+      and:
+        - file.folder == "pages"
+  - type: bases-cms
+    name: All Posts
+    filters:
+      and:
+        - file.folder.startsWith("posts")
+    order:
+      - file.name
+      - formula.Content Folder
+      - formula.Path
+    sort:
+      - property: date
+        direction: DESC
+    titleProperty: note.title
+    imageProperty: note.image
+    dateProperty: note.date
+    showDate: true
+    showDraftStatus: true
+    draftStatusProperty: note.draft
+    showTags: true
+    tagsProperty: note.tags
+    descriptionProperty: note.description
+    propertyLabels: above
+    fallbackToEmbeds: always
+    imageFormat: cover
+    fallbackToContent: true
+    truncatePreviewProperty: true
+    customizeNewButton: true
