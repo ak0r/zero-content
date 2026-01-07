@@ -1,9 +1,6 @@
 ---
 title: Who is Amit K?
-description: ""
 lastUpdated: 2026-01-07
-cover: ""
-draft: false
 ---
 **I'm Amit** — I work in technology and travel whenever I can manage it.
 

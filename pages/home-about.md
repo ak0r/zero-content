@@ -1,9 +1,5 @@
 ---
-title: ""
-description: ""
-lastUpdated: ""
 cover: "[[pages/attachments/me-wide.jpg]]"
-draft: false
 ---
 ## Systems. Streets. Stories.
 

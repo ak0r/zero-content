@@ -1,9 +1,4 @@
 ---
-title: ""
-description: ""
-lastUpdated: ""
-cover: ""
-draft: false
 ---
 ### Where to reach me
 
