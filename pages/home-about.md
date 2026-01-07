@@ -1,8 +1,12 @@
 ---
-title: about-me
+title: Systems. Streets. Stories.
 description: ""
 lastUpdated: ""
-cover: ""
+cover: "[[pages/attachments/me-wide.jpg]]"
 draft: false
 ---
-**Hey, I'm Amit** — Solution Architect by day, and traveller whenever possible. This site is where I document both sides — the technical experiments I do during off-hours and the places I explore when I'm away from the screen. Sometimes I'm deep in code, other times I'm lost in a new city. Both make for good stories.
+### That's me. Amit K.
+
+I build **systems** during the week and explore **streets** around the world whenever I can. Both worlds make for good **stories**. This blog documents them both — the technical experiments I run in my off-hours and the places I discover when I'm away from the screen. Sometimes I'm debugging code, other times I'm lost in a new city.
+
+That's me in 10 seconds. Want the extended version? Head over to [/about](/about).
