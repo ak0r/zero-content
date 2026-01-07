@@ -14,19 +14,19 @@ category: travel
 ---
 It has been long that I have gone out there and strolled in one of the favourite photography destinations of Pune, Mandai. I was in dual mind whether to carry my DSLR or to just go out there and make the maximum use of my phone, which gives a range of colours and works brilliantly in low light. Yes, I went out there taking my mobile phone only!
 
-[![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai19.jpg)g)
+![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai19.jpg)
 
-[![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai1.jpg)g)
+[![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai1.jpg)
 
-[![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai4.jpg)g)
+[![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai4.jpg))
 
 Light is the primary step for photographing, Mandai being established during the British times it has the blend of old, rusty feel and perfection when it comes to the sense of placement of the building as a whole. The Mahatma Phule Mandai spreads up to an eight-acre land right in the prime area of Pune, with eight entrances. The Mandai has a centre and then there are wings in which fresh vegetables are brought in by the wholesalers and retailers for the Punekars to buy. Since the tradition has been, it opens around 6 am and slowly opens up to a full-fledged market where one gets access to all types of vegetables, fruits and nowadays it’s also electronics which you find, around the periphery.
 
 So, today all my intention was to explore and absorb this place and photograph the most common things found in here, uncommonly and candidly.
 
-[![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai22.jpg)g)
+[![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai22.jpg))
 
-[![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai20.jpg)g)
+[![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai20.jpg))
 
 [![](posts/2018-06-19-photowalk-pune-market/attachments/Mandai21.jpg)g)
 
